@@ -3731,6 +3731,7 @@ input, select, textarea {
 
 	#main {
 		background-color: #ffffff;
+		body class="" background="images/Canthigaster_bright.jpeg"
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
