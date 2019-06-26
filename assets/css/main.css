@@ -99,6 +99,7 @@ input, select, textarea {
 
 	body {
 		background-color: #ffff99;
+		background-image: "images/Canthigaster_bright.jpeg";
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
