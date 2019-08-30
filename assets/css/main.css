@@ -3209,10 +3209,10 @@ input, select, textarea {
 			height: 100%;
 			background-color: #ffff99;
 			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/Canthigaster_bright.jpeg");
-			background-size: auto,								auto,														100% auto;
+			background-size: cover,								cover,														100% auto;
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat;
-			background-attachment: scroll,								scroll,														scroll;
+			background-attachment: fixed,								fixed,														scroll;
 			z-index: -1;
 		}
 
