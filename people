@@ -1,0 +1,93 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-142910172-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-142910172-1');
+</script>
+
+		<title>Opportunities</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Katherine Corn</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+              <li class="active"><a href="people.html">People</a></li>
+							<li><a href="publications.html">Publications</a></li>
+							<li><a href="conner_museum.html">Conner Museum</a></li>
+              <li><a href="opportunities.html">Join us</a></li>
+						</ul>
+						<ul class="icons">
+							<li><a href="mailto:katherine.corn@wsu.edu" class="icon fa-envelope"><span class="label">Email</span></a></li>
+							<li><a href="https://twitter.com/damalichthys" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="https://scholar.google.com/citations?user=JU4gY_wAAAAJ&hl=en" class="icon fa-google"><span class="label">Google Scholar</span></a></li>
+							<li><a href="https://www.github.com/kacorn/" class="icon fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Post -->
+							<section class="post">
+								<header class="major">
+									<h2>People</h2>
+									
+								</header>
+                
+           <!-- People list -->
+           <h4>Katherine Corn</h4>
+           <p><span class="image left"><img src="images/Corn_Lithobates_1.jpeg" alt="" /></span>I am an evolutionary biologist and functional morphologist with a real passion for fishes. Questions I ask include: How do interactions with the physical environment facilitate the evolution of organismal diversity? What factors promote or slow morphological and functional evolution? How can we better use our knowledge of mechanical systems to model the evolution of the lineages that use them?
+           
+           I did my PhD at UC Davis, where I worked with <a href="https://fishlab.ucdavis.edu">Peter Wainwright</a> exploring the effect of coral reefs and feeding mode on the evolution of diversity in reef fishes. Following that I moved to Virginia Tech to postdoc with <a href="https://www.uyedalab.com">Josef Uyeda</a>. As an undergraduate I worked with <a href="https://www.adamsummers.org">Adam Summers</a> and <a href="http://www.stacyfarina.com">Stacy Farina</a> at Friday Harbor Marine Labs on a shark tooth saw and with <a href="https://ecologyandevolution.cornell.edu/william-bemis">Willy Bemis</a> at Cornell on the development of sevengill shark teeth.</p>
+
+           
+				
+				
+
+					</div>
+
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Katherine Corn</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
