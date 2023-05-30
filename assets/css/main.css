@@ -2925,7 +2925,7 @@ input, select, textarea {
 
 		header.major {
 			margin: 0 0 4rem 0;
-			text-align: center;
+			text-align: left;
 		}
 
 			header.major > :last-child {
@@ -2934,7 +2934,7 @@ input, select, textarea {
 
 			header.major > p {
 				margin-top: 0;
-				text-align: center;
+				text-align: left;
 			}
 
 			header.major > .date {
