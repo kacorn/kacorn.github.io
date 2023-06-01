@@ -100,6 +100,7 @@ input, select, textarea {
 	body {
 		background-color: #000000;
 		background-image: url("../../images/parrotfish by klaus stiefel medium large.jpg");
+		background-size: 100% auto;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -116,7 +117,7 @@ input, select, textarea {
 /* Type */
 
 	html {
-		font-size: 16pt;
+		font-size: 15pt;
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -2883,7 +2884,7 @@ input, select, textarea {
 /* Section/Article */
 
 	section.special, article.special {
-		text-align: center;
+		text-align: justify;
 	}
 
 	header {
@@ -3207,7 +3208,7 @@ input, select, textarea {
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background-color: #ffff99;
+			background-color: #000000;
 			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/Canthigaster_bright.jpeg");
 			background-size: cover,								cover,														100% auto;
 			background-position: center,								center,														top center;
@@ -3507,7 +3508,7 @@ input, select, textarea {
 
 			#header a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: #ffffff !important;
 			}
 
 		#header strong, #header b {
@@ -3551,8 +3552,8 @@ input, select, textarea {
 		}
 
 			#header .logo:hover {
-				border-color: #18bfef !important;
-				color: #18bfef !important;
+				border-color: #ffffff !important;
+				color: #ffffff !important;
 			}
 
 		@media screen and (max-width: 980px) {
@@ -3606,7 +3607,7 @@ input, select, textarea {
 		}
 
 		#nav ul.icons li a.icon:hover:before {
-			color: #18bfef;
+			color: #000000;
 		}
 
 		#nav ul.icons.alt li .icon:before {
@@ -3628,7 +3629,7 @@ input, select, textarea {
 
 			#nav a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: #ffffff !important;
 			}
 
 		#nav strong, #nav b {
@@ -3751,7 +3752,7 @@ input, select, textarea {
 			}
 
 		#main > footer {
-			text-align: center;
+			text-align: justify;
 		}
 
 		#main > .post {
@@ -3812,7 +3813,7 @@ input, select, textarea {
 			-webkit-align-items: -webkit-stretch;
 			-ms-align-items: -ms-stretch;
 			align-items: stretch;
-			text-align: center;
+			text-align: justify;
 			width: 100%;
 			padding: 0;
 		}
@@ -3842,7 +3843,7 @@ input, select, textarea {
 				border-left-width: 2px;
 				border-style: solid;
 				border-top-width: 2px;
-				text-align: center;
+				text-align: justify;
 			}
 
 				#main > .posts > article > :last-child {
